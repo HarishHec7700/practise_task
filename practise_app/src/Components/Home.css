@@ -1,0 +1,33 @@
+
+#root{
+    background-color: black;
+}
+.data-list{
+    height: fit-content;
+}
+.active{
+    background-color: aqua;
+}
+.datas{
+    background-color: aliceblue;
+    padding: 2rem 0;
+    margin: 3rem 0;
+    border-radius: 1.6rem;
+}
+.datas h4{
+    border-bottom: 3px solid #000;
+}
+.display-screen{
+    list-style: none;
+}
+.emp_detail{
+    cursor: pointer;
+    padding: 0.5rem;
+    font-weight: 600;
+    font-size: 1.2rem;
+    border-bottom: solid 2px grey;
+}
+.employee-details{
+    font-weight: initial;
+    font-size: initial;
+}
