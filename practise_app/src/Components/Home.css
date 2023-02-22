@@ -31,3 +31,20 @@
     font-weight: initial;
     font-size: initial;
 }
+
+.totalPages{
+    gap: 1rem;
+    margin: 1rem 0;
+}
+
+.pageNum{
+    padding: 0.5rem;
+    background-color: #fff;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.active{
+    background-color:coral;
+    color: #fff;
+}
